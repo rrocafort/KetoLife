@@ -36,21 +36,18 @@ footer {
 
 footer div.contactus {
     width: 33.33%;
-    height: 100px;
+    height: 50px;
     background: lightgray;
 }
 
 footer div.ReqRcp {
     width: 33.33%;
-    height: 100px;
+    height: 50px;
     background: lightgray;
 }
 
 footer div.Nwsltr {
     width: 33.33%;
-    height: 100px;
+    height: 50px;
     background: lightgray;
-}
-
-
 }
