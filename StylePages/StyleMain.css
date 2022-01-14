@@ -36,13 +36,13 @@ form input {
 
 .container {
     width: 60%;
-    height: 550px;
+    height: 460px;
     background-color: blue;
 }
 
 .recipes {
     width: 40%;
-    height: 550px;
+    height: 460px;
     background-color: rgb(0, 255, 0);
 }
 
