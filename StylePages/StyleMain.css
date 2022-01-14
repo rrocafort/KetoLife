@@ -39,7 +39,7 @@ form input {
 .recipes {
     width: 40%;
     height: 550px;
-    background-color: lime;
+    background-color: rgb(0, 255, 0);
 }
 
 footer {
