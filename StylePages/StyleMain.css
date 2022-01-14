@@ -1,11 +1,13 @@
 header {
     width: 100%;
     background-color: lightgray;
-    height: 65px;
+    height: 80px;
+    box-sizing: border-box;
 }
 
 .Myheader {
     width: 60%;
-    height: 50px;
+    height: 80px;
     background-color: lightslategray;
+    float: left;
 }
