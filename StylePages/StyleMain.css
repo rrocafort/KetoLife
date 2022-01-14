@@ -10,6 +10,10 @@ html {
     float: right;
 }
 
+.clear {
+    clear: both;
+}
+
 .Myheader {
     width: 60%;
     height: 80px;
