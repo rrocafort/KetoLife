@@ -61,6 +61,7 @@ footer div.contactus {
     height: 70px;
     background: lightgray;
     border: 1px solid black;
+    text-align: center;
 }
 
 footer div.ReqRcp {
@@ -68,6 +69,7 @@ footer div.ReqRcp {
     height: 70px;
     background: lightgray;
     border: 1px solid black;
+    text-align: center;
 }
 
 footer div.Nwsltr {
@@ -75,4 +77,5 @@ footer div.Nwsltr {
     height: 70px;
     background: lightgray;
     border: 1px solid black;
+    text-align: center;
 }
