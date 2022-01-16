@@ -1,81 +1,53 @@
-html {
-    background-color: rgba(241, 235, 235, 0.863);
-}
-
-.floatleft {
-    float: left;
-}
-
-.floatright {
-    float: right;
-}
-
-.clear {
-    clear: both;
-}
-
-.Myheader {
-    width: 60%;
-    height: 80px;
-    background-color: lightslategray;
-}
-
-div.Myforms {
-    box-sizing: border-box;
-    background-color: gray;
-    width: 40%;
-    height: 80px;
-    padding-left: 50px;
-    padding-top: 30px;
-}
-
-form input {
-    width: 250px;
-    border-color: black;
-}
-
-.container {
-    width: 60%;
-    height: 460px;
-    background-color: blue;
-}
-
-.recipes {
-    width: 40%;
-    height: 460px;
-    background-color: rgb(0, 255, 0);
-}
-
-.styled {}
-
-.liststyle {
-    list-style: none;
-}
-
-footer {
-    display: flex;
-}
-
-footer div.contactus {
-    width: 33.33%;
-    height: 70px;
-    background: lightgray;
-    border: 1px solid black;
-    text-align: center;
-}
-
-footer div.ReqRcp {
-    width: 33.33%;
-    height: 70px;
-    background: lightgray;
-    border: 1px solid black;
-    text-align: center;
-}
-
-footer div.Nwsltr {
-    width: 33.33%;
-    height: 70px;
-    background: lightgray;
-    border: 1px solid black;
-    text-align: center;
-}
+    html {
+        background-color: rgba(241, 235, 235, 0.863);
+    }
+    
+    .floatleft {
+        float: left;
+    }
+    
+    .floatright {
+        float: right;
+    }
+    
+    .clear {
+        clear: both;
+    }
+    
+    .Myheader {
+        width: 60%;
+        height: 80px;
+        background-color: lightslategray;
+    }
+    
+    div.Myforms {
+        box-sizing: border-box;
+        background-color: gray;
+        width: 40%;
+        height: 80px;
+        padding-left: 50px;
+        padding-top: 30px;
+    }
+    
+    form input {
+        width: 250px;
+        border-color: black;
+    }
+    
+    .container {
+        width: 60%;
+        height: 460px;
+        background-color: blue;
+    }
+    
+    .recipes {
+        width: 40%;
+        height: 460px;
+        background-color: rgb(0, 255, 0);
+    }
+    
+    .styled {}
+    
+    .liststyle {
+        list-style: none;
+    }
