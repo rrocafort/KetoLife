@@ -60,16 +60,19 @@ footer div.contactus {
     width: 33.33%;
     height: 70px;
     background: lightgray;
+    border: 1px solid black;
 }
 
 footer div.ReqRcp {
     width: 33.33%;
     height: 70px;
     background: lightgray;
+    border: 1px solid black;
 }
 
 footer div.Nwsltr {
     width: 33.33%;
     height: 70px;
     background: lightgray;
+    border: 1px solid black;
 }
