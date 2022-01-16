@@ -48,6 +48,10 @@ form input {
 
 .styled {}
 
+.liststyle {
+    list-style: none;
+}
+
 footer {
     display: flex;
 }
