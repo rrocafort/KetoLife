@@ -51,3 +51,18 @@
     .liststyle {
         list-style: none;
     }
+    
+    nav {
+        background-color: lightblue;
+    }
+    
+    nav li {
+        list-style-type: none;
+        margin: 50px;
+        display: inline;
+        line-height: 70px;
+    }
+    
+    nav li a {
+        text-decoration: none;
+    }
