@@ -7,3 +7,7 @@ div img {
     height: auto;
     float: right;
 }
+
+.HomeIcon:hover {
+    transform: scale(1.3);
+}
