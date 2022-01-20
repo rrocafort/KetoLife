@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+div img {
+    width: 70px;
+    height: auto;
+    float: right;
+}
+
+.HomeIcon:hover {
+    transform: scale(1.3);
+}
