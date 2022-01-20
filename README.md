@@ -47,3 +47,5 @@ Bibliography
     - Keto Low-carb pumpkin pie //https://www.dietdoctor.com/recipes/low-carb-pumpkin-pie-2 Accessed on 01/2022
     - Keto Spanish low-carb almond cake (Tarta de Santiago)//https://www.dietdoctor.com/recipes/spanish-low-carb-almond-cake-tarta-de-santiago Accessed on 01/2022
     - Keto Low-carb Mexican hot chocolate (champurrado)// https://www.dietdoctor.com/recipes/low-carb-mexican-hot-chocolate-champurrado Accessed on 01/2022
+    - Keto Low-carb chocolate avocado truffles// https://www.dietdoctor.com/recipes/low-carb-chocolate-avocado-truffles Accessec on 01/2022
+    
