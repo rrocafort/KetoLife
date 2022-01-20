@@ -19,3 +19,7 @@ div img {
 .leftarrow:hover {
     transform: scale(1.3);
 }
+
+.recipePic {
+    width: 40%;
+}
