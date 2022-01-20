@@ -11,3 +11,11 @@ div img {
 .HomeIcon:hover {
     transform: scale(1.3);
 }
+
+.leftarrow {
+    float: left;
+}
+
+.leftarrow:hover {
+    transform: scale(1.3);
+}
