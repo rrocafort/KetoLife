@@ -31,3 +31,21 @@ figure {
 .recipePic {
     width: 40%;
 }
+
+figcaption {
+    width: 40%;
+    text-align: center;
+}
+
+.Lists {
+    margin: 0 auto;
+}
+
+.Lists h2 {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.paragraph {
+    margin-left: 35px;
+}
