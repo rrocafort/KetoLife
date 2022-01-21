@@ -2,6 +2,10 @@ h1 {
     text-align: center;
 }
 
+.recipePic {
+    width: 40%;
+}
+
 div img {
     width: 70px;
     height: auto;
