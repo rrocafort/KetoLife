@@ -10,6 +10,7 @@ div img {
     width: 70px;
     height: auto;
     float: right;
+    margin-right: 3px;
 }
 
 .HomeIcon:hover {
@@ -18,6 +19,7 @@ div img {
 
 .leftarrow {
     float: left;
+    margin-left: 10px;
 }
 
 .leftarrow:hover {
