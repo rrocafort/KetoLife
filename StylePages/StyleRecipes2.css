@@ -42,8 +42,12 @@ figcaption {
 }
 
 .Lists h2 {
-    margin-top: 80px;
+    margin-top: 70px;
     text-align: center;
+}
+
+.Lists li {
+    line-height: 2.5em;
 }
 
 .paragraph {
