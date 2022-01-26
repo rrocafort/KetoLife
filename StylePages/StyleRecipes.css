@@ -10,8 +10,17 @@ h1 {
     text-align: center;
 }
 
-.images {
+.container {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+img {
+    box-sizing: border-box;
+    width: 29vw;
+    margin: 15px;
+    border-radius: 20px;
 }
 
 figcaption {

@@ -5,6 +5,8 @@ Hidden Valley, food.com, Foodnetwork,
 Bibliography
  - Baking Food Images
    - Low Carb Bread (High Fiber Dinner Rolls)//https://www.dietdoctor.com/low-carb/keto/recipes/bread Accessed on 01/2022
+   - Keto Banana Bread // https://www.ketoconnect.net/wp-content/uploads/2021/03/horizontal-shot-banana-bread-and-butter.jpg // Accessed on 01/2022
+   - Keto Lemon low Carb Glaze Bread // https://i.pinimg.com/originals/57/15/3f/57153f42b3864bdbc874b1df2df04319.jpg // Accessed on 01/2022
    
  - Breakfast Food Images
  - Lunch Food Images
