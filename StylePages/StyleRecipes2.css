@@ -2,15 +2,9 @@ body {
     margin: 0px;
 }
 
-h1 {
-    text-align: center;
-}
-
-div img {
-    width: 70px;
-    height: auto;
+.HomeIcon {
+    width: 11vh;
     float: right;
-    margin-right: 3px;
 }
 
 .HomeIcon:hover {
