@@ -16,13 +16,14 @@
         background-color: lightslategray;
     }
     
+    h1 {
+        background-color: blue;
+    }
+    
     div.Myforms {
         box-sizing: border-box;
         background-color: gray;
         width: 40%;
-        height: 80px;
-        padding-left: 50px;
-        padding-top: 30px;
     }
     
     form input {
@@ -59,4 +60,9 @@
     
     nav li a {
         text-decoration: none;
+    }
+    
+    nav li a:hover {
+        text-decoration: underline;
+        cursor: pointer;
     }
