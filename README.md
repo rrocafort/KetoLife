@@ -52,4 +52,8 @@ Bibliography
     - Keto Spanish low-carb almond cake (Tarta de Santiago)//https://www.dietdoctor.com/recipes/spanish-low-carb-almond-cake-tarta-de-santiago Accessed on 01/2022
     - Keto Low-carb Mexican hot chocolate (champurrado)// https://www.dietdoctor.com/recipes/low-carb-mexican-hot-chocolate-champurrado Accessed on 01/2022
     - Keto Low-carb chocolate avocado truffles// https://www.dietdoctor.com/recipes/low-carb-chocolate-avocado-truffles Accessec on 01/2022
+
+    Image for logo creation
+    - Word (created Commons This Photo by Unknown Author is licensed under CC BY-NC)
+    - Inkscape for background removal and layers
     

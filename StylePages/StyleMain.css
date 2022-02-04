@@ -49,6 +49,10 @@ img {
     padding-top: 90px;
 }
 
+figcaption {
+    margin-left: 170px;
+}
+
 footer>nav {
     background-color: lightblue;
     width: 100%;
