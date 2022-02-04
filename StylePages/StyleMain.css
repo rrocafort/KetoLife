@@ -47,6 +47,8 @@ form input {
 img {
     margin-left: 40px;
     padding-top: 90px;
+    width: 600px;
+    height: 500px;
 }
 
 figcaption {
