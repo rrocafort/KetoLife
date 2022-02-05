@@ -54,6 +54,9 @@ figcaption {
 
 video {
     margin-left: 100px;
+    border: 20px solid black;
+    border-radius: 10px;
+    ;
 }
 
 footer>nav {

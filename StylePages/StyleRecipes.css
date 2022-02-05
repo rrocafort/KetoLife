@@ -22,7 +22,8 @@ h1 {
 
 img {
     box-sizing: border-box;
-    width: 29vw;
+    width: 30vw;
+    height: 20vw;
     margin: 10px;
     border-radius: 20px;
 }
