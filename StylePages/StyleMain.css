@@ -14,10 +14,6 @@ header {
     float: left;
 }
 
-h1 {
-    background-color: rgba(30, 30, 110, 0.171);
-}
-
 nav {
     float: left;
     padding-top: 15px;
