@@ -56,6 +56,10 @@ figcaption {
     padding: 10px;
 }
 
+video {
+    margin-left: 100px;
+}
+
 footer>nav {
     background-color: lightblue;
     width: 100%;
