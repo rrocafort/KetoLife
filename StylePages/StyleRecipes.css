@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Orange Slices";
+    src: url("/Fonts/OrangeSlices-lgPK0.otf") format("open Type Format");
+}
+
 .HomeIcon {
     width: 12vh;
     float: right;
