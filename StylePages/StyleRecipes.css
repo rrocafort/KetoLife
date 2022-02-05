@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Orange Slices";
-    src: url("/Fonts/OrangeSlices-lgPK0.otf") format("open Type Format");
+    src: url("/Fonts/OrangeSlices-lgPK0.otf") format("opentype");
 }
 
 .HomeIcon {
@@ -13,6 +13,7 @@
 }
 
 h1 {
+    font-family: "Orange Slices";
     font-size: 2.5em;
     line-height: 1.2em;
     padding-top: 5px;
@@ -37,6 +38,7 @@ figcaption {
     width: 30vw;
     font-size: 1.23em;
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 a:link {

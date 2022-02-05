@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Orange Slices";
+    src: url("/Fonts/OrangeSlices-lgPK0.otf") format("opentype");
+}
+
 html {
     background-color: rgba(241, 235, 235, 0.863);
 }
@@ -6,6 +11,10 @@ header {
     box-sizing: border-box;
     background-color: red;
     height: 80px;
+}
+
+header h1 {
+    font-family: "Orange Slices";
 }
 
 .Lheader {
