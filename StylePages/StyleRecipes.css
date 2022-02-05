@@ -20,7 +20,7 @@ h1 {
     justify-content: space-around;
 }
 
-img {
+figure img {
     box-sizing: border-box;
     width: 30vw;
     height: 20vw;
