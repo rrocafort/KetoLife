@@ -51,6 +51,11 @@ img {
     float: left;
 }
 
+figcaption {
+    text-align: center;
+    padding: 10px;
+}
+
 footer>nav {
     background-color: lightblue;
     width: 100%;
