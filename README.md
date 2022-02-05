@@ -58,4 +58,12 @@ Bibliography
     - Inkscape for background removal and layers
     Website Fonts
     - license: Freeware, Non-Commercial // link: https://www.fontspace.com/orange-slices-font-f49217 // Accessed on 02/2022
+    Color Palette for Website
+    - https://mariahalthoff.com/blog/food-themed-color-palettes // Color palette chosen
+       - Color Palette for Website
+         - rgb(248, 142, 40)
+         - rgb(248, 183, 53)
+         - rgb(43, 137, 139)
+         - rgb(38, 112, 79)
+         - rgb(33, 48, 55)
     
