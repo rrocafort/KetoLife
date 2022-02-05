@@ -56,4 +56,6 @@ Bibliography
     Image for logo creation
     - Word (created Commons This Photo by Unknown Author is licensed under CC BY-NC)
     - Inkscape for background removal and layers
+    Website Fonts
+    - license: Freeware, Non-Commercial // link: https://www.fontspace.com/orange-slices-font-f49217 // Accessed on 02/2022
     
