@@ -5,8 +5,9 @@
 
 body {
     margin: 0;
-    background-image: url("");
-    ackground-repeat: repeat-x;
+    background-image: url("/Images/Keto\ Food\ Backgroun\ by\ louis-hansel-phEaeqe555M-unsplash.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 header {
