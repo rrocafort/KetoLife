@@ -24,7 +24,7 @@ body {
 
 header {
     box-sizing: border-box;
-    background-color: red;
+    background-color: rgb(44, 72, 76);
     height: 80px;
 }
 
@@ -36,6 +36,13 @@ header h1 {
     width: 20%;
     text-align: center;
     float: left;
+    color: rgb(255, 203, 63);
+    gb(246,
+    184,
+    61);
+    gb(248,
+    183,
+    53);
 }
 
 nav {
@@ -54,21 +61,10 @@ nav li {
 }
 
 form input {
-    width: 250px;
-    border-color: black;
+    width: 240px;
     margin-right: 10px;
-}
-
-logo {
-    box-sizing: border-box;
-    width: 100%;
-    height: 63px;
-}
-
-img {
-    width: 550px;
-    height: 500px;
-    float: left;
+    border: 2px solid rgb(255, 228, 63);
+    border-radius: 5px;
 }
 
 figcaption {
@@ -80,11 +76,10 @@ video {
     margin-left: 100px;
     border: 20px solid black;
     border-radius: 10px;
-    ;
 }
 
 footer>nav {
-    background-color: lightblue;
+    background-color: rgb(41, 190, 36);
     width: 100%;
 }
 
@@ -92,14 +87,17 @@ footer>nav li {
     list-style-type: none;
     margin: 50px;
     display: inline;
-    line-height: 15px;
+    line-height: 10px;
 }
 
 nav li a {
+    color: rgb(7, 73, 29);
+    font-weight: bold;
     text-decoration: none;
 }
 
 nav li a:hover {
     text-decoration: underline;
+    text-decoration-color: rgb(255, 202, 97);
     cursor: pointer;
 }
