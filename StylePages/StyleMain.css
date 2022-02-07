@@ -33,7 +33,7 @@
  }
  
  .Lheader {
-     width: 12%;
+     width: 13%;
      text-align: center;
      float: left;
      color: rgb(255, 203, 63);
@@ -60,7 +60,16 @@
      width: 100px;
  }
  
- .btn-styled:hover {}
+ .btn-styled:hover {
+     box-shadow: 0 2px 1px 0 rgb(243, 228, 20);
+     cursor: pointer;
+ }
+ 
+ .btn-styled:active {
+     background-color: rgb(233, 233, 17);
+     color: rgb(44, 72, 76);
+     transform: translateY(6px);
+ }
  
  .LheaderSbox {
      padding-top: 30px;
