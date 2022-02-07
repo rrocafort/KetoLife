@@ -3,11 +3,23 @@
     src: url("/Fonts/OrangeSlices-lgPK0.otf") format("opentype");
 }
 
+html,
 body {
+    padding: 0;
     margin: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
     background-image: url("/Images/Keto\ Food\ Backgroun\ by\ louis-hansel-phEaeqe555M-unsplash.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
+}
+
+#page-main {
+    flex-grow: 1;
 }
 
 header {
