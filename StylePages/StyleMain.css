@@ -76,8 +76,6 @@
      margin-left: 950px;
  }
  
- .btn-styled:active {}
- 
  form input {
      width: 220px;
      margin-right: 10px;
@@ -87,13 +85,18 @@
  
  figcaption {
      text-align: center;
+     color: rgb(44, 72, 76);
      padding: 10px;
+     margin-left: 650px;
+     font-family: "Orange Slices";
+     font-size: 4vh;
  }
  
  video {
-     margin-left: 100px;
-     border: 20px solid black;
+     box-sizing: border-box;
      border-radius: 10px;
+     position: relative;
+     left: 790px;
  }
  
  footer>nav {
