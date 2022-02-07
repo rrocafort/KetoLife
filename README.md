@@ -10,7 +10,8 @@ Bibliography
    - Low Carb Bread (High Fiber Dinner Rolls)//https://www.dietdoctor.com/low-carb/keto/recipes/bread Accessed on 01/2022
    - Keto Banana Bread // https://www.ketoconnect.net/wp-content/uploads/2021/03/horizontal-shot-banana-bread-and-butter.jpg // Accessed on 01/2022
    - Keto Lemon low Carb Glaze Bread // https://i.pinimg.com/originals/57/15/3f/57153f42b3864bdbc874b1df2df04319.jpg // Accessed on 01/2022
-   
+   - Logo image: Avocado
+      - Avocado Image // https://media.istockphoto.com/vectors/avocado-icon-vector-id968645380?k=6&m=968645380&s=612x612&w=0&h=floZ4l3Dn3OmI3YlfXkYoqi_-hOzvFYCh80l60fnazE= // accessed 02/2022
  - Breakfast Food Images
  - Lunch Food Images
  - Snacks Food Images
@@ -64,9 +65,9 @@ Bibliography
     Color Palette for Website
     - https://mariahalthoff.com/blog/food-themed-color-palettes // Color palette chosen
        - Color Palette for Website
-         - rgb(248, 142, 40)
-         - rgb(248, 183, 53)
-         - rgb(43, 137, 139)
-         - rgb(38, 112, 79)
+         - Orange rgb(248, 142, 40)
+         - Lighte orange rgb(248, 183, 53)
+         - Acua blue rgb(43, 137, 139)
+         - Darker Acua rgb(38, 112, 79)
          - rgb(33, 48, 55)
     
