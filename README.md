@@ -16,6 +16,7 @@ Ideas for future improvement
  - Add a Separate section for video of the week if using a carousel
  - Add a rating system so that people can rate their favorite recipe
  - Greater use of color by combing complementary as wel as contrasting color in the design
+ - Add a section (only for the web administrator), to add New recipes and food recipe pictures to be displayed to the user.
  - Use of backend technologies to store data, so instead of writing a single page per recipe, load a single page and extract from a database the chosen recipe.
  - have the ability to print the recipe from a database
 
