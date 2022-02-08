@@ -96,3 +96,5 @@ Bibliography
          - Darker Acua rgb(38, 112, 79)
          - rgb(33, 48, 55)
     
+Contact Us Page
+- Image Fried Egg //https://i.pinimg.com/originals/dc/ef/f2/dceff2d25eaf69cf9f14df9c0afd3fa2.jpg// Accessed on 02/2022.
