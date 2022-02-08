@@ -19,6 +19,7 @@ Ideas for future improvement
  - Add a section (only for the web administrator), to add New recipes and food recipe pictures to be displayed to the user.
  - Use of backend technologies to store data, so instead of writing a single page per recipe, load a single page and extract from a database the chosen recipe.
  - have the ability to print the recipe from a database
+ - Add section for Social media
 
 
 
