@@ -22,26 +22,65 @@ h1 {
     margin: 0;
 }
 
+img {
+    width: 10vh;
+    float: right;
+    margin-top: 5px;
+}
+
 .container {
     display: flex;
 }
 
 div.image {
     background-image: url("/Images/Two\ Fried\ Eggs.jpg");
-    object-fit: cover;
     border: 1px solid black;
     border-radius: 5px;
     width: 35%;
     height: 400px;
     margin: 50px 0 0 110px;
+    box-shadow: 10px 5px 20px rgb(65, 73, 72);
 }
 
 div.forms {
-    background-color: rgb(66, 108, 114);
+    background-color: rgb(65, 73, 72);
+    /* for browser that do not support linear gradient */
     background-image: linear-gradient(to right bottom, rgb(180, 198, 197), rgb(170, 187, 186), rgb(123, 135, 135), rgb(44, 72, 76), rgb(73, 70, 69));
     border: 1px solid black;
+    box-shadow: 10px 5px 20px rgb(65, 73, 72), -10px 5px 10px rgb(65, 73, 72);
     border-radius: 5px;
-    width: 40%;
-    height: 450px;
+    width: 37%;
+    height: 430px;
     margin: 30px 0 0 -5px;
+}
+
+.position {
+    text-align: center;
+}
+
+input {
+    width: 380px;
+    height: 35px;
+    border: 3px solid rgb(243, 130, 0);
+    border-radius: 10px
+}
+
+textarea {
+    border: 3px solid rgb(243, 130, 0);
+    border-radius: 10px;
+}
+
+.spn-styles {
+    margin-left: 120px;
+}
+
+.btn-styles {
+    line-height: 1.9;
+    width: 25%;
+    margin: 20px 5px 0 5px;
+    border-radius: 10px;
+    color: rgb(55, 34, 103);
+    background-color: rgba(105, 66, 143, 0.247);
+    font-weight: bold;
+    font-size: 3vh;
 }
