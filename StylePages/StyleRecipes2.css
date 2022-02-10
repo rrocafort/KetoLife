@@ -1,14 +1,46 @@
-body {
+@font-face {
+    font-family: "Orange Slices";
+    src: url("/Fonts/OrangeSlices-lgPK0.otf") format("opentype");
+}
+
+body,
+h1 {
     margin: 0px;
 }
 
+body {
+    background-color: #fff1d9;
+}
+
+header {
+    background-color: rgb(44, 72, 76);
+    color: rgb(255, 203, 63);
+    text-align: center;
+    height: 80px;
+    line-height: 2.6;
+}
+
+h1 {
+    font-family: "Orange Slices";
+    font-size: 2.5em;
+    line-height: 1.2em;
+    padding-top: 5px;
+    text-align: center;
+}
+
 .HomeIcon {
-    width: 12vh;
+    width: 9vh;
     float: right;
+    margin-top: 10px;
+    margin-right: 20px;
 }
 
 .HomeIcon:hover {
-    transform: scale(1.3);
+    width: 8vh;
+    padding: 5px;
+    border: 1px solid rgb(212, 176, 55);
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .leftarrow {
@@ -19,13 +51,6 @@ body {
 
 .leftarrow:hover {
     transform: scale(1.3);
-}
-
-h1 {
-    font-size: 2.5em;
-    line-height: 1.2em;
-    padding-top: 5px;
-    text-align: center;
 }
 
 figure {
