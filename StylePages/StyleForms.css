@@ -30,8 +30,9 @@ img {
 }
 
 img:hover {
+    width: 8vh;
     padding: 5px;
-    border: 1px solid rgb(241, 152, 50);
+    border: 1px solid rgb(212, 176, 55);
     border-radius: 5px;
     cursor: pointer;
 }
