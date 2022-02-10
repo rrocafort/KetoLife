@@ -44,15 +44,17 @@ h1 {
 }
 
 .leftarrow {
-    width: 13vh;
+    width: 8vh;
     float: left;
     margin-left: 10px;
+    border: 1px solid rgb(212, 176, 55);
 }
 
 .leftarrow:hover {
-    width: 8vh;
+    width: 7vh;
     padding: 5px;
     border: 1px solid rgb(212, 176, 55);
+    box-shadow: 1px 2px 3px yellow;
     border-radius: 5px;
     cursor: pointer;
 }
