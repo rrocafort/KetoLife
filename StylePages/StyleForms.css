@@ -3,7 +3,7 @@ html {
     box-sizing: border-box;
     height: 100%;
     margin: 0;
-    background-color: rgb(180, 198, 197);
+    background-image: linear-gradient(to right bottom, rgb(180, 198, 197), rgb(170, 187, 186), rgb(123, 135, 135), rgb(44, 72, 76), rgb(73, 70, 69));
 }
 
 body {
@@ -23,9 +23,17 @@ h1 {
 }
 
 img {
-    width: 10vh;
+    width: 9vh;
     float: right;
-    margin-top: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+img:hover {
+    padding: 5px;
+    border: 1px solid rgb(241, 152, 50);
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .container {
@@ -38,20 +46,31 @@ div.image {
     border-radius: 5px;
     width: 35%;
     height: 400px;
-    margin: 50px 0 0 110px;
+    margin: 70px 0 0 110px;
     box-shadow: 10px 5px 20px rgb(65, 73, 72);
 }
 
 div.forms {
-    background-color: rgb(65, 73, 72);
-    /* for browser that do not support linear gradient */
-    background-image: linear-gradient(to right bottom, rgb(180, 198, 197), rgb(170, 187, 186), rgb(123, 135, 135), rgb(44, 72, 76), rgb(73, 70, 69));
+    background-color: rgb(247, 247, 215);
     border: 1px solid black;
     box-shadow: 10px 5px 20px rgb(65, 73, 72), -10px 5px 10px rgb(65, 73, 72);
     border-radius: 5px;
     width: 37%;
-    height: 430px;
-    margin: 30px 0 0 -5px;
+    height: 500px;
+    margin: 20px 0 0 -5px;
+}
+
+div.div-center {
+    position: relative;
+    top: 5px;
+    left: 30%;
+}
+
+div.center-box {
+    position: relative;
+    top: 50px;
+    left: 30%;
+    height: 300px;
 }
 
 .position {
@@ -62,7 +81,7 @@ input {
     width: 380px;
     height: 35px;
     border: 3px solid rgb(243, 130, 0);
-    border-radius: 10px
+    border-radius: 5px
 }
 
 textarea {
@@ -77,10 +96,11 @@ textarea {
 .btn-styles {
     line-height: 1.9;
     width: 25%;
-    margin: 20px 5px 0 5px;
+    margin: 5px 5px 0 5px;
+    border: 3px solid rgb(247, 247, 215);
     border-radius: 10px;
-    color: rgb(55, 34, 103);
-    background-color: rgba(105, 66, 143, 0.247);
+    color: rgb(247, 247, 215);
+    background-color: rgb(243, 130, 0);
     font-weight: bold;
     font-size: 3vh;
 }
