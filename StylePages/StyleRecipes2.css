@@ -29,25 +29,30 @@ h1 {
 }
 
 .HomeIcon {
-    width: 9vh;
+    width: 8vh;
     float: right;
-    margin-top: 10px;
-    margin-right: 20px;
+    padding: 5px;
+    margin: 10px 20px 0px 0px;
+    border: 1px solid rgb(212, 176, 55);
+    border-radius: 5px;
 }
 
 .HomeIcon:hover {
     width: 8vh;
     padding: 5px;
     border: 1px solid rgb(212, 176, 55);
+    box-shadow: 1px 2px 3px yellow;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .leftarrow {
-    width: 8vh;
+    width: 7vh;
     float: left;
-    margin-left: 10px;
+    padding: 5px;
+    margin: 10px 0px 0px 20px;
     border: 1px solid rgb(212, 176, 55);
+    border-radius: 5px;
 }
 
 .leftarrow:hover {
