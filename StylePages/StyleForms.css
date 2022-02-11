@@ -22,20 +22,9 @@ h1 {
     margin: 0;
 }
 
-img {
-    width: 9vh;
-    float: right;
-    margin-top: 10px;
-    margin-right: 20px;
-}
+img {}
 
-img:hover {
-    width: 8vh;
-    padding: 5px;
-    border: 1px solid rgb(212, 176, 55);
-    border-radius: 5px;
-    cursor: pointer;
-}
+img:hover {}
 
 .container {
     display: flex;
