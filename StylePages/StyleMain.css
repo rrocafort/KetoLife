@@ -15,7 +15,7 @@ body {
     display: flex;
     flex-direction: column;
     background-image: url("/Images/Keto\ Food\ Backgroun\ by\ louis-hansel-phEaeqe555M-unsplash.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
@@ -225,14 +225,13 @@ figcaption a {
         display: none;
     }
     .hmb-icon {
-        margin: 0px 40px 0px 0px;
+        margin: 0px 30px 0px 360px;
         color: rgb(255, 203, 63);
         font-size: 30px;
         line-height: 70px;
         width: 26px;
         display: block;
         cursor: pointer;
-        margin: 0px 30px 0px 300px;
     }
     .menu {
         margin: 0px 30px 0px 0px;
