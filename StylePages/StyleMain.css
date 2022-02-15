@@ -158,10 +158,6 @@ figcaption a {
         /* MS Explorer 10-11 */
         color: rgb(7, 73, 29);
     }
-     :: ms-input-placeholder {
-        /*Microsoft Edge*/
-        color: rgb(7, 73, 29);
-    }
     video {
         left: 680px;
     }
