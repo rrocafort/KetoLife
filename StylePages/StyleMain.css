@@ -24,6 +24,7 @@ body {
 }
 
 header {
+    width: 100%;
     box-sizing: border-box;
     background-color: rgb(44, 72, 76);
     height: 80px;
@@ -224,8 +225,11 @@ figcaption a {
     figcaption {
         display: none;
     }
+    .Lheader {
+        width: 40%;
+    }
     .hmb-icon {
-        margin: 0px 30px 0px 360px;
+        margin: 0px 0px 0px 140px;
         color: rgb(255, 203, 63);
         font-size: 30px;
         line-height: 70px;
@@ -238,5 +242,54 @@ figcaption a {
         text-align: center;
         width: 100%;
         display: none;
+    }
+    .menu a {
+        display: block;
+        margin: 0;
+    }
+    #toggle:checked+.menu {
+        display: block;
+    }
+    footer>nav li {
+        list-style-type: none;
+        margin: 15px;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    video,
+    figcaption {
+        display: none;
+    }
+    .Lheader {
+        width: 45%;
+    }
+    .hmb-icon {
+        margin-left: 140px;
+        color: rgb(255, 203, 63);
+        font-size: 30px;
+        line-height: 70px;
+        width: 26px;
+        display: block;
+        cursor: pointer;
+    }
+    .menu {
+        margin: 0px 30px 0px 0px;
+        text-align: center;
+        width: 100%;
+        display: none;
+    }
+    .menu a {
+        display: block;
+        margin: 0;
+    }
+    #toggle:checked+.menu {
+        display: block;
+    }
+    footer>nav li {
+        list-style-type: none;
+        margin: 15px;
+        display: block;
     }
 }
