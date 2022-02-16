@@ -253,6 +253,23 @@ figcaption a {
     }
 }
 
+@media only screen and (max-width: 768px) {
+    .hmb-icon {
+        margin-left: 400px;
+    }
+    footer>nav li {
+        list-style-type: none;
+        margin: 5px;
+        display: inline;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .hmb-icon {
+        margin-left: 200px;
+    }
+}
+
 @media only screen and (max-width: 375px) {
     video,
     figcaption {
