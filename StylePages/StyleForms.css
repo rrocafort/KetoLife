@@ -120,3 +120,5 @@ textarea {
     font-size: 3vh;
     cursor: pointer;
 }
+
+@media only screen and (max-width:500px) {}
