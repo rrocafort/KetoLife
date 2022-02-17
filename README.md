@@ -1,10 +1,10 @@
 Brief Description:
-   - KetoLife website a fictious project of a Full Stack Web Developer Coding Bootcamp provided by Florida Atlantic University powered by Quickstart.
+   - KetoLife website a fictious project for the Full Stack Web Developer Coding Bootcamp offered by Florida Atlantic University and powered by Quickstart.
 
 Programmer: Rainier Rocafort
 
 Project Overview: 
-    - KetoLife is website towards the keto lifestyle that involves sharing keto recipes for baking, breakfast, lunch, dinner and snacks. There is a video section on the main page where the video of the week will be posted (This is a fictious).
+    - KetoLife fictious website about the keto lifestyle. The website involves sharing keto recipes for baking, breakfast, lunch, dinner and snacks. There is a video section on the main page where the video of the week will be posted, and the is archive section for past video sessions (This is a fictious).
 how to use it:
  - index.html is the main page of the project. there are buttons on the navigation bar that when pressed will take to the recipeMain page where a collection of recipes are found. from there, any recipe can be selected for view. from this page, the user can go back to the recipeMain and select another recipe or go to the index.html
 
@@ -22,10 +22,8 @@ Ideas for future improvement
  - Add section for Social media
 
 
-
-These are the websites where images were taken
-for the school project. In any way, shape or form, will these images will be display in an actual Keto Website to host recipes. this is a school project to learn to code in HTML, CSS and JavaScript
-Hidden Valley, food.com, Foodnetwork,
+The images used on the website were for the school project only.  In any way, shape or form, will these images will be display in an actual Keto Website to host recipes. this is a school project to learn to code in HTML, CSS and JavaScript.
+The main websites used were: Hidden Valley, food.com, Foodnetwork.
 
 Bibliography
  - Index.html Background Images
@@ -39,6 +37,7 @@ Bibliography
       - Avocado Image // https://media.istockphoto.com/vectors/avocado-icon-vector-id968645380?k=6&m=968645380&s=612x612&w=0&h=floZ4l3Dn3OmI3YlfXkYoqi_-hOzvFYCh80l60fnazE= // accessed 02/2022
  - Breakfast Food Images
  - Lunch Food Images
+   Search keto on foodnetwork, all recipes website
  - Snacks Food Images
     - KETO RANCH CHEDDAR CRISPS //https://www.hiddenvalley.com/recipe/keto-ranch-cheddar-crisps/ Accssed 01/2022.
  - Dinner Food Images 
