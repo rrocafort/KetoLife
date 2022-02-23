@@ -134,15 +134,12 @@
     }
     /*   --  hamburger Icon Menu  -- */
     
-    @media only screen and (max-width: 1334px) {
+    @media only screen and (max-width: 1336px) {
         form>button {
             display: none;
         }
-    }
-    
-    @media only screen and (max-width:1325px) {
         video {
-            left: 730px;
+            left: 700px;
         }
     }
     
